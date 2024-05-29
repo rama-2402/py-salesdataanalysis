@@ -48,5 +48,18 @@ Following analysis has been made on the sales data
 * Finding products that are most sold during holodays
 
 
+### INSIGHTS AND OBSERVATIONS
+
+- Observation: The month of **December** has the highest sales recorded in the year 
+    - Insight: This could indicate the customer behavior of **spending more during holidays** 
+- Observation: The month of **Kanuary** has the lowest sales recorded in the year 
+    - Insight: This could indicate the customer behavior of spending less or rather **depleted savings right after holidays**
+- Observation: The city of **"San Francisco"** has the highest sales recorded in the year
+- Observation: The store has recorded an average **"peak sales"** during the hours of **"11AM - 1PM"** and **"5PM - 7PM"** eeryday throughout the year. 
+   - Insights: Running an a general or a targeted **Ad campaign** just hours before the peak sale hours could drive more sales to the stores. 
+- Observation: **iPhone and Lightning cables** are the most often **purchased products in pairs.**
+   - Insights: This gives us an insight on the customer behavior of purchasing tech products in pairs and having a **discounted sale on relevant products in pairs** could drive more sales to the store. 
+
+
 #### CREDITS
 The sales data for this exploratory analysis has been taken from the materials provided in [freecodecamp](https://youtu.be/GPVsHOlRBBI). The exploratory analysis was done in my point of view using different approach.
